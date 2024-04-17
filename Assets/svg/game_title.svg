@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1024"
+   height="512"
+   viewBox="0 0 270.93332 135.46667"
+   version="1.1"
+   id="svg11858"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="game_title.svg"
+   inkscape:export-filename="game_title.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview11860"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.72515432"
+     inkscape:cx="483.34539"
+     inkscape:cy="219.95318"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs11855">
+    <rect
+       x="95.682877"
+       y="94.342102"
+       width="97.511215"
+       height="48.633717"
+       id="rect399" />
+  </defs>
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.3717px;line-height:1.25;font-family:Perun;-inkscape-font-specification:'Perun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss01';fill:#252525;fill-opacity:1;stroke-width:0.535121;stroke-dasharray:none"
+       x="9.3895388"
+       y="78.045044"
+       id="text405"><tspan
+         sodipodi:role="line"
+         id="tspan407"
+         x="9.3895388"
+         y="78.045044"
+         style="stroke-width:0.535121">Ламп</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.3717px;line-height:1.25;font-family:Perun;-inkscape-font-specification:'Perun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss01';fill:#262626;fill-opacity:1;stroke-width:0.535121"
+       x="177.66342"
+       y="78.095215"
+       id="text463"><tspan
+         sodipodi:role="line"
+         id="tspan461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.3717px;font-family:Perun;-inkscape-font-specification:'Perun, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-feature-settings:'ss01';fill:#262626;fill-opacity:1;stroke-width:0.535121"
+         x="177.66342"
+         y="78.095215">чки</tspan></text>
+    <circle
+       style="fill:#f2cb4e;fill-opacity:1;stroke:#e7b511;stroke-width:5.35121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path465"
+       cx="159.13327"
+       cy="64.470093"
+       r="16.053659" />
+    <rect
+       style="fill:#575756;fill-opacity:1;stroke:#252525;stroke-width:5.35121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect2963"
+       width="8.3488626"
+       height="3.3917158"
+       x="154.95883"
+       y="88.4533" />
+    <rect
+       style="fill:#575756;fill-opacity:1;stroke:#252525;stroke-width:5.35121;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect1401"
+       width="19.959002"
+       height="7.6966081"
+       x="149.15376"
+       y="81.917435" />
+  </g>
+</svg>

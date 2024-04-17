@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733333"
+   version="1.1"
+   id="svg10098"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="level_locked.svg"
+   inkscape:export-filename="level_locked.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview10100"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.7251543"
+     inkscape:cx="-94.462654"
+     inkscape:cy="-21.374761"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-32000"
+     inkscape:window-y="-32000"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs10095" />
+  <g
+     inkscape:label="Слой 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#a3a3a3;stroke:#262626;stroke-width:11.0676;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect10221"
+       width="56.665779"
+       height="56.665779"
+       x="5.5337653"
+       y="5.5337653"
+       ry="11.439612" />
+    <rect
+       style="display:none;fill:#f2cb4e;fill-opacity:1;stroke:#262626;stroke-width:11.0676;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+       id="rect10221-1"
+       width="56.665779"
+       height="56.665779"
+       x="5.5337653"
+       y="5.5337629"
+       ry="11.439612" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Слой 2">
+    <path
+       id="rect842"
+       style="display:inline;fill:#262626;fill-opacity:1;stroke:none;stroke-width:10.1438;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 33.866666 15.158764 A 9.5459423 9.5459423 0 0 0 24.320479 24.704952 L 24.320479 26.831954 L 24.018689 26.831954 C 20.86296 26.831954 18.322396 29.372518 18.322396 32.528247 L 18.322396 45.903657 C 18.322396 49.059386 20.86296 51.599434 24.018689 51.599434 L 43.714644 51.599434 C 46.870372 51.599434 49.410937 49.059386 49.410937 45.903657 L 49.410937 32.528247 C 49.410937 29.372518 46.870372 26.831954 43.714644 26.831954 L 43.412853 26.831954 L 43.412853 24.704952 A 9.5459423 9.5459423 0 0 0 33.866666 15.158764 z M 33.866666 18.125508 A 6.5789604 6.5789604 0 0 1 40.445593 24.704952 L 40.445593 26.831954 L 27.641723 26.831954 L 27.28774 26.831954 L 27.28774 24.704952 A 6.5789604 6.5789604 0 0 1 33.866666 18.125508 z " />
+    <path
+       id="path1530"
+       style="fill:#a3a3a3;fill-opacity:1;stroke:none;stroke-width:10.5833;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+       d="M 33.866666,35.681543 A 2.4187353,2.4187353 0 0 0 31.447692,38.1 a 2.4187353,2.4187353 0 0 0 1.209746,2.094962 v 2.549199 c 0,0.669989 0.539239,1.209228 1.209228,1.209228 0.669989,0 1.209229,-0.539239 1.209229,-1.209228 V 40.194962 A 2.4187353,2.4187353 0 0 0 36.28564,38.1 2.4187353,2.4187353 0 0 0 33.866666,35.681543 Z" />
+  </g>
+</svg>
